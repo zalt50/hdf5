@@ -9,7 +9,7 @@ group :development do
   gem "shoulda", " 3.0.1"
   gem "rdoc", "~> 4.0"
   gem "bundler", "> 1.0.0"
-  gem "juwelier", github: "controlshift/juwelier"
+  gem "juwelier", "> 2.1.2"
 	gem "simplecov", ">=0"
 	gem "minitest", "~> 4"
 end
